@@ -3,8 +3,9 @@ Proyecto de clase para la unidad 2 de la asignatura de Aplicaciones Web Orientad
 
 |Descripción                                                      | Estatus   | Version|
 |------------------------------------------------------------------|-----------|-------------|
-| Repositorio del Proyecto implementando .git ignore| Finalizada ✅ |1.0| 
-| Creacion de una Aplicación Web Usando Express | Finalizada ✅ |1.0|
+| Repositorio del Proyecto implementando .git ignore| Desplegada ✅ |1.0| 
+| Creacion de una Aplicación Web Usando Express | Desplegada ✅ |1.0|
+| Agregacion de Dependencias nuevas | Desplegada ✅ |1.0.1|
 
 
 ## AUTOR
