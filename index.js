@@ -12,7 +12,11 @@ const app = express()
 
 app.set('view engine', 'pug')
 app.set('views', './views');
+//Carpeta Pública
 
+app.use (express.static('public'))
+
+//Routing
 app.use('/auth', usuariosRoutes)//escanea las que inician con una diagonal
 
 //.send, .json, .render
